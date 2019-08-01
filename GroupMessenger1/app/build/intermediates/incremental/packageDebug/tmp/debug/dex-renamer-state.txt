@@ -1,0 +1,4 @@
+#Sun Feb 24 19:55:03 EST 2019
+base.0=/Users/kuangkeming/Documents/BUFFALO/Studying/S8/CSE486/PA2/GroupMessenger1/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
